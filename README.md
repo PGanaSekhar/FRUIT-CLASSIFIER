@@ -24,7 +24,7 @@ The project's objective is to categorise various fruits, and to do that, I have 
   <br>14. Chestnut
   <br>15. Clementine
   <br>and many more...
-- Training set size: 67692 images (one fruit or vegetable per image).
+- Training set size: 63764 images (one fruit or vegetable per image).
 - Test set size: 22688 images (one fruit or vegetable per image).
 - Image size: 100x100 pixels
 
