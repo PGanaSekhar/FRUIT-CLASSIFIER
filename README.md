@@ -36,6 +36,7 @@ The project's objective is to categorise various fruits, and to do that, I have 
 - Some key concepts and components of CNNs are Convolutional Layer, Pooling Layer, Activation Function (like ReLU), Fully Connected Layer, Flattening, Dropout, Loss Function, Optimizer
 
 
-## Steps
-## Code explanation
-## Results
+## Prerequisites
+- Download the dataset.
+- Have the dataset in the location mentioned in the code.
+- Ensure that every library using should be installed.
